@@ -13,8 +13,5 @@
   <img align="center" alt="Murilo-Vue" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
 </div>
   
-  ##
-  
-  <div> 
-  ![Snake animation](https://github.com/muril0791/muril0791/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ## End
+ 
