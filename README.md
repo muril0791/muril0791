@@ -11,7 +11,6 @@
   <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Murilo-Vue" height"30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg">
-    <img align="center" alt="Murilo-Vue" height"30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg](https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo-300x270.png)">
 </div>
   
   ## End
