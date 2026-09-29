@@ -35,7 +35,7 @@ Pixi.js · Phaser
 ## Experience
 
 ### Full-Stack Developer — Mobile App Defense
-**Present**
+**September 2025 — Present**
 
 - Developing full-stack applications for RASP and application security.
 - Building dashboards for monitoring, analyzing, and visualizing security data.
@@ -44,7 +44,7 @@ Pixi.js · Phaser
 - Improving application performance, usability, and reliability.
 
 ### Game Developer — Jogo Global
-**2022 — Present**
+**2022 — January 2026**
 
 - Developed real-time web games with a focus on performance and user experience.
 - Built interactive frontend experiences and game systems.
