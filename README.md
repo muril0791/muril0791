@@ -34,7 +34,7 @@ Pixi.js · Phaser
 
 ## Experience
 
-### Full-Stack Developer — Mobile App Defense
+### Sr Full-Stack Developer — Mobile App Defense
 **September 2025 — Present**
 
 - Developing full-stack applications for RASP and application security.
